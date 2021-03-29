@@ -37,7 +37,7 @@
 <img width ='44px' align='center' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg'>
 <br>
 </p>
-
+<br>
 >
 <h2 align='left'> My GitHub Stats <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='30px'> </h2>
 <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -50,31 +50,3 @@
 
 
 
-
-<!--
-**codermother/codermother** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-### Hi there, I'm Özge👋
-
-## Frontend Engineer
-
-# 📍 Currently base at: Sakarya, Turkey
-
-## 💻⌨️ Languages and Tools
-
-
-
-- 📫 How to reach me **https://www.linkedin.com/in/%C3%B6zge-co%C5%9Fkun-g%C3%BCrsucu-28380987/**
-
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
