@@ -35,8 +35,6 @@
 <img width ='44px' align='center' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/nodejs.svg'>
 <img width ='44px' align='center' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/illustrator.svg'>
 <img width ='44px' align='center' src ='https://upload.wikimedia.org/wikipedia/commons/c/c2/Adobe_XD_CC_icon.svg'>
-<img width ='44px' align='center' src ='https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fvscode-icons%2Fvscode-icons%2Fissues%2F2118&psig=AOvVaw05JHZoWBXJGllggHsIPIAB&ust=1645814140604000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCLiAkNb9mPYCFQAAAAAdAAAAABAD'>
-<img width ='44px' align='center' src ='https://vecta.io/symbols/85/brands-ja-jz/33/jira-icon'>
 <img width ='44px' align='center' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/figma.svg'>
 <img width ='44px' align='center' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/git.svg'>
 <img width ='44px' align='center' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg'>
